@@ -1,4 +1,4 @@
-#Análisis y transformación de datos para A/B Testing
+# Análisis y transformación de datos para A/B Testing
 
 Demo análisis de datos como anexo para mi candidatura en el Master BIG DATA MANAGEMENT, TECHNOLOGIES AND ANALYTICS en la UPC.
 
